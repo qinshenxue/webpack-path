@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "webpack": "3.11.0",
+    "webpack-dev-server": "2.x"
+  },
+  "scripts": {
+    "dev:context": "webpack-dev-server --open --config context/webpack.config.js"
+  },
+  "name": "webpack-path",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:qinshenxue/webpack-path.git",
+  "license": "MIT"
+}
